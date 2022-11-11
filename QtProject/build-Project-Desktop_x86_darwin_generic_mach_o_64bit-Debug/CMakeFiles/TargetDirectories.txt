@@ -1,0 +1,5 @@
+/Users/dineevilsat/Documents/QtProject/build-Project-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/Users/dineevilsat/Documents/QtProject/build-Project-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/edit_cache.dir
+/Users/dineevilsat/Documents/QtProject/build-Project-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Project.dir
+/Users/dineevilsat/Documents/QtProject/build-Project-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Project_autogen_timestamp_deps.dir
+/Users/dineevilsat/Documents/QtProject/build-Project-Desktop_x86_darwin_generic_mach_o_64bit-Debug/CMakeFiles/Project_autogen.dir
